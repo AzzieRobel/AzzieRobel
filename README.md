@@ -158,7 +158,7 @@
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" alt=".NET" />
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET" />
       <br>.NET
     </td>
   </tr>
