@@ -154,7 +154,7 @@
       <br>Android
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java"  />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java"  />
       <br>Java
     </td>
     <td align="center" width="90">
