@@ -93,15 +93,15 @@
       <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
       <br>Svelte
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <br>Sass
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
@@ -112,14 +112,6 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
-      <br>Sass
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
       <br>Babel
     </td>
@@ -128,15 +120,11 @@
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
+      <br>D3.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MDB
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
@@ -149,6 +137,14 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
       <br>SQLite
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MDB
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
@@ -160,6 +156,16 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
@@ -175,21 +181,21 @@
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
       <br>AWS
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RestAPI
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="55" height="55" />
-      <br>C
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
     </td>
   </tr>
 </table>
