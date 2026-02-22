@@ -82,7 +82,7 @@
       <br>Nuxt.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="90">
