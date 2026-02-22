@@ -10,21 +10,7 @@
 </a>
 </p>
 
-## 💬 Talk with me
-
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
-
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML
-
-☀️ Mobile App: React Native, Android Java, C#
-
-🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
-
-💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
-
-## 💫 My🌟BEST🌟 SKILLS
-
-![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+## 💫 My SKILLS
 
 <p align="center">
 <table align="center">
