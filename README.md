@@ -186,19 +186,19 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="55" height="55" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="RestAPI" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="RestAPI" />
       <br>RestAPI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" alt="MySQL" />
       <br>GraphQL
     </td>
   </tr>
