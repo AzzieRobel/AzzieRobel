@@ -150,7 +150,7 @@
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="AndroidStudio" />
       <br>Android
     </td>
     <td align="center" width="90">
