@@ -186,7 +186,7 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
       <br>Github
     </td>
     <td align="center" width="96"> 
@@ -194,11 +194,11 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="RestAPI" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="RestAPI" />
       <br>RestAPI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="MySQL" />
       <br>GraphQL
     </td>
   </tr>
