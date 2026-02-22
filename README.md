@@ -1,127 +1,230 @@
-<h1 align="center">Hi 👋 I'm Sofia Rossi</h1>
-<h3 align="center">Full Stack Engineer | Blockchain Developer | Cloud Architect</h3>
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer with strong system design understanding  
-- 🔗 Blockchain & Smart Contract Engineer  
-- ☁️ Cloud-native architecture enthusiast (AWS)  
-- 🧠 Strong focus on scalable, maintainable, production-grade systems  
-- 📈 Always improving performance, security, and developer experience  
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="(https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="30"/> **Leadership & Team Mentoring**  
-<img src="https://media.giphy.com/media/communication.gif" width="30"/> **Clear Technical Communication**  
-<img src="https://media.giphy.com/media/problem-solving.gif" width="30"/> **Strategic Problem Solving**  
-<img src="https://media.giphy.com/media/agile.gif" width="30"/> **Agile & Scrum Collaboration**  
-<img src="https://media.giphy.com/media/analysis.gif" width="30"/> **Stakeholder Requirement Analysis**  
-<img src="https://media.giphy.com/media/time-management.gif" width="30"/> **Time Management & Prioritization**  
-<img src="https://media.giphy.com/media/adaptability.gif" width="30"/> **Adaptability**  
-<img src="https://media.giphy.com/media/conflict-resolution.gif" width="30"/> **Conflict Resolution**  
-<img src="https://media.giphy.com/media/client-focus.gif" width="30"/> **Client-Focused Thinking**  
-<img src="https://media.giphy.com/media/work-ethic.gif" width="30"/> **Strong Work Ethic**
-
-</p>
-
-### 🎨 Frontend
-- React
-- Vue.js
-- Angular
-- Bootstrap
-- TailwindCSS
-- HTML5 / CSS3 / JavaScript / TypeScript
-
-### ⚙️ Backend
-- Node.js (Express, NestJS)
-- PHP
-- Laravel
-- Python
-- Django
-- Java
-- .NET (ASP.NET Core)
-- Rust
-
-### 📱 Mobile
-- Flutter
-- Kotlin (Android)
-
-### 🔗 Blockchain
-- Solidity
-- Smart Contract Development
-- Web3.js / Ethers.js
-- DeFi / NFT Architecture
-
-### 🗄 Database
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, RDS, Lambda, CloudFront)
-- Docker
-- CI/CD Pipelines
-- GitHub Actions
-- Nginx
-- Linux
-
----
-
-## 🧠 Architecture Expertise
-
-- RESTful API Design
-- Microservices Architecture
-- Event-driven Systems
-- Authentication & Authorization (JWT, OAuth2)
-- Database Optimization
-- Performance Tuning
-- Secure Smart Contract Design
-
----
-
-## 💼 Soft Skills
-
-- Leadership & Team Mentoring  
-- Clear Technical Communication  
-- Strategic Problem Solving  
-- Agile & Scrum Collaboration  
-- Stakeholder Requirement Analysis  
-- Time Management & Prioritization  
-- Adaptability in Fast-Changing Environments  
-- Conflict Resolution  
-- Client-Focused Thinking  
-- Strong Work Ethic  
-
----
-
-## 📊 GitHub Stats
+<div align="center">
+  <h2>🏆 Github Profile Trophy 🏆</h2>  
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Honest0&no-bg=true&no-frame=true&theme=onedark&column=8" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<a href="https://github.com/Honest0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Honest0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Honest0&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
 </p>
 
----
+## 💬 Talk with me
 
-## 🌍 Let's Connect
+💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Portfolio: https://yourwebsite.com
-- Email: your@email.com
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML
 
----
+☀️ Mobile App: React Native, Android Java, C#
 
-## 🔥 Philosophy
+🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
 
-> “Clean architecture, secure systems, scalable design.”
+💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
----
+## 💫 My🌟BEST🌟 SKILLS
 
-⭐️ If you like my work, consider following me!
+![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
+      <br>Nest.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+      <br>Svelte
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>RestAPI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
+      <br>D3.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <br>Sass
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
+      <br>Babel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+</p>
+<hr>
+<br>
+</div>
+
+<!-- <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Honest0&show_icons=true&theme=radical" alt="Honest0"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honest0&hide=html,css&layout=compact&theme=radical" alt="Honest0"/>
+</p>
+
+<p  align="Right">
+
+</p>
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Honest0&theme=radical" alt="Honest0"/>
+</p>
+
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honest0&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/Honest0?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Honest0&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@Honest0's trophy stats"/>
+  </a>
+</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honest0&theme=github_dark) -->
+
+## ⚡ Status
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Honest0&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Honest0&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Honest0&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Honest0&theme=algolia&utcOffset=8)
