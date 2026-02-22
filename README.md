@@ -98,8 +98,8 @@
       <br>jQuery
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
-      <br>Svelte
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+      <br>Vite
     </td>
   </tr>
   <tr>
@@ -132,8 +132,16 @@
       <br>D3.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
-      <br>Vite
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" />
+      <br>RestAPI
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
     </td>
   </tr>
   <tr>
@@ -215,10 +223,6 @@
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>Go
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -244,18 +248,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
       <br>Jenkins
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
-      <br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
-      <br>GraphQL
     </td>
   </tr>
 </table>
