@@ -82,11 +82,11 @@
       <br>Nuxt.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" />
       <br>Django
     </td>
     <td align="center" width="96">
