@@ -256,29 +256,3 @@
 <br>
 </div>
 
-<!-- <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Honest0&show_icons=true&theme=radical" alt="Honest0"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honest0&hide=html,css&layout=compact&theme=radical" alt="Honest0"/>
-</p>
-
-<p  align="Right">
-
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Honest0&theme=radical" alt="Honest0"/>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honest0&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/Honest0?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Honest0&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@Honest0's trophy stats"/>
-  </a>
-</div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honest0&theme=github_dark) -->
-
-## ⚡ Status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Honest0&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Honest0&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Honest0&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Honest0&theme=algolia&utcOffset=8)
