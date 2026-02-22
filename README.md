@@ -130,7 +130,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="90">
