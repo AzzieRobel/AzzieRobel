@@ -154,8 +154,12 @@
       <br>Android
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java"  />
       <br>Java
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" alt=".NET" />
+      <br>.NET
     </td>
   </tr>
   <tr>
@@ -168,21 +172,21 @@
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
       <br>C++
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
     <td align="center" width="96"> 
@@ -190,7 +194,7 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="RestAPI" />
       <br>RestAPI
     </td>
     <td align="center" width="96">
