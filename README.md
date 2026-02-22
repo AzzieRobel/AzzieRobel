@@ -146,7 +146,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="90">
