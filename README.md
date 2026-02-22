@@ -1,3 +1,7 @@
+<p align="center">
+	<a href="https://github.com/tot-git27"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Blockchain%20Developer;9%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"></a>
+</p>
+
 <div align="center">
   <h2>🏆 Github Profile Trophy 🏆</h2>  
   <img alig src="https://github-profile-trophy.vercel.app/?username=Honest0&no-bg=true&no-frame=true&theme=onedark&column=8" />
