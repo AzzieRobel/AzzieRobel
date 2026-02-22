@@ -90,7 +90,7 @@
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery" />
       <br>jQuery
     </td>
     <td align="center" width="90">
