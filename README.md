@@ -89,6 +89,10 @@
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
       <br>Svelte
