@@ -15,6 +15,10 @@
 <p align="center">
 <table align="center">
   <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
@@ -26,10 +30,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
@@ -180,6 +180,12 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
+      <br>Gatsby
     </td>
   </tr>
 </table>
