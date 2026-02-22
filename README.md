@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+      <img src="https://skillicons.dev/icons?i=html"  alt="html" />
       <br>HTML
     </td>
     <td align="center" width="90">
