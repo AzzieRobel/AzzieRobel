@@ -15,6 +15,21 @@
 
 ## 🛠 Tech Stack
 
+<p align="left">
+
+<img src="https://media.giphy.com/media/leadership.gif" width="30"/> **Leadership & Team Mentoring**  
+<img src="https://media.giphy.com/media/communication.gif" width="30"/> **Clear Technical Communication**  
+<img src="https://media.giphy.com/media/problem-solving.gif" width="30"/> **Strategic Problem Solving**  
+<img src="https://media.giphy.com/media/agile.gif" width="30"/> **Agile & Scrum Collaboration**  
+<img src="https://media.giphy.com/media/analysis.gif" width="30"/> **Stakeholder Requirement Analysis**  
+<img src="https://media.giphy.com/media/time-management.gif" width="30"/> **Time Management & Prioritization**  
+<img src="https://media.giphy.com/media/adaptability.gif" width="30"/> **Adaptability**  
+<img src="https://media.giphy.com/media/conflict-resolution.gif" width="30"/> **Conflict Resolution**  
+<img src="https://media.giphy.com/media/client-focus.gif" width="30"/> **Client-Focused Thinking**  
+<img src="https://media.giphy.com/media/work-ethic.gif" width="30"/> **Strong Work Ethic**
+
+</p>
+
 ### 🎨 Frontend
 - React
 - Vue.js
