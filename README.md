@@ -23,7 +23,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
@@ -141,7 +141,7 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
       <br>SQLite
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -185,20 +185,32 @@
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
       <br>AWS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="90"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
+      <br>Jenkins
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" />
       <br>RestAPI
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
   </tr>
