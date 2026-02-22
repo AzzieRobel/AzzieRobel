@@ -172,7 +172,7 @@
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" alt="C#" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="90">
