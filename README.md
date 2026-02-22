@@ -16,11 +16,11 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="html" />
       <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="96">
