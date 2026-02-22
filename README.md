@@ -2,18 +2,6 @@
 	<a href="https://github.com/tot-git27"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Blockchain%20Developer;9%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"></a>
 </p>
 
-<div align="center">
-  <h2>🏆 Github Profile Trophy 🏆</h2>  
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Honest0&no-bg=true&no-frame=true&theme=onedark&column=8" />
-</div>
-
-<p align="center">
-<a href="https://github.com/Honest0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Honest0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Honest0&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
-</p>
-
 ## 💫 My SKILLS
 
 <p align="center">
