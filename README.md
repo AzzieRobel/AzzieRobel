@@ -112,7 +112,7 @@
       <br>D3.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="45" height="45" />
       <br>Vercel
     </td>
     <td align="center" width="90">
