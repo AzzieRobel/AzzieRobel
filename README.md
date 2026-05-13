@@ -81,9 +81,9 @@
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" />
       <br>Django
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
@@ -108,20 +108,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="45" height="45" />
-      <br>Vercel
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" />
       <br>RestAPI
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
-      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java"  />
@@ -130,6 +118,18 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET" />
       <br>.NET
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>Go
     </td>
   </tr>
   <tr>
@@ -176,32 +176,12 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
       <br>Jenkins
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      <br>Go
     </td>
   </tr>
 </table>
