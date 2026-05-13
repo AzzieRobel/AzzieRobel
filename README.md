@@ -119,6 +119,18 @@
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>Go
     </td>
+	<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="90"> 
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+      <br>Git
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -149,21 +161,7 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center" width="90"> 
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
+	<td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
       <br>Docker
     </td>
