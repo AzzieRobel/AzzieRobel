@@ -58,10 +58,6 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="rails" />
-      <br>WordPress
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
@@ -89,6 +85,10 @@
       <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
       <br>Vite
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
+      <br>Jenkins
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -98,10 +98,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
       <br>Sass
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
@@ -130,6 +126,10 @@
     <td align="center" width="90"> 
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
       <br>Git
+    </td>
+	<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
+      <br>Docker
     </td>
   </tr>
   <tr>
@@ -160,14 +160,6 @@
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
-    </td>
-	<td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
-      <br>Jenkins
     </td>
   </tr>
 </table>
