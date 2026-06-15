@@ -1,8 +1,13 @@
 <p align="center">
-  <a href="https://github.com/tot-git27">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AzzieRobel&color=blue" />
+    <img src="https://img.shields.io/github/followers/AzzieRobel?label=Followers&logo=github&color=blue&style=flat" />
+    <img src="https://img.shields.io/github/stars/AzzieRobel?affiliations=OWNER&label=Stars&logo=github&color=blue&style=flat" />
+  </p>
 </p>
+
+<br>
 
 <h2 align="center">🛠️ My Skills</h2>
 
@@ -48,7 +53,7 @@
 </tr>
 </table>
 
----
+<br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -57,12 +62,12 @@
   <img src="https://streak-stats.demolab.com/?user=AzzieRobel&theme=tokyonight" height="180"/>
 </p>
 
+<P align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzzieRobel&theme=tokyo-night" height="280" />
+</P>
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AzzieRobel&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzzieRobel&color=blue" />
-</p>
